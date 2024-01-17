@@ -1,0 +1,25 @@
+*{
+    background-color: aquamarine;
+}
+h1 a{
+    color: black;
+    margin-right: 1rem;
+}
+.from,.to{
+    width: 200px;
+    padding: 0.5rem;
+    border:2px solid black;
+    border-radius: 1rem;
+}
+.message{
+    padding: 1rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+}
+.btn{
+    width: 75px;
+    padding: 0.5rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    background-color: rgb(226, 226, 84);
+}
